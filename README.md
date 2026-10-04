@@ -2,7 +2,7 @@
 Interactive Tableau dashboard analyzing global odd food tourism, revenue, popularity, risk, and regional trends.
 <img width="857" height="410" alt="img1" src="https://github.com/user-attachments/assets/0923f8f9-3b0a-48ad-8bd4-b9f7228fc0ab" />
 
-DASHBOARD
+##DASHBOARD
 
 <img width="1261" height="560" alt="Dashboard" src="https://github.com/user-attachments/assets/8a272d18-bbe9-431b-93c6-016ed5a004cb" />
 <img width="1267" height="806" alt="Dashboard 2" src="https://github.com/user-attachments/assets/04a07823-97a7-4fe8-af11-195ee6e689ec" />
