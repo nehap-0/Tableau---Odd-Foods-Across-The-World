@@ -20,6 +20,7 @@ Interactive Tableau dashboard analyzing global odd food tourism, revenue, popula
 
 
 https://public.tableau.com/app/profile/neha.nester.pereira/viz/ModifiedDashboardOddFoods/OddFoodsAcrossTheWorld
+
 Insights:
 ✅ North America leads in revenue and tourist numbers for odd food tourism, significantly outperforming all other global regions in both sales and visitor count.
 
